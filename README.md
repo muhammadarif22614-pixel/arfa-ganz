@@ -14,8 +14,8 @@ yang tertarik dengan dunia pemograman dan teknologi.
 <li>GITHUB</li>
 
 # Project
-1. Website restaurant
-<li>website sederhana untuk menampilkan menu dan informasi restaurant</li>
+1. Website game
+<li>website sederhana untuk menampilkan menu dan informasi game</li>
 
 2.Website Portofolio
 <li>Website pribadi untuk menampilkan informasi dan project yang pernah dibuat</li>
