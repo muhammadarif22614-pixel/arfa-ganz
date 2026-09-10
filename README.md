@@ -1,2 +1,2 @@
-# arfa-ganz
+# arfa
 halo
